@@ -15,4 +15,5 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Template for project was forked from https://github.com/udacity/pdsnd_github
+Files used in the project were supplied by Udacity
