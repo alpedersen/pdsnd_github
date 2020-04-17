@@ -1,5 +1,7 @@
 ### Date created
-Project code was created on April 11, 2020. Readme documentation created April 16, 2020
+Project code was created on April 11, 2020
+
+Readme documentation created April 16, 2020
 
 ### Project Title
 Bikeshare Analysis Program
@@ -16,4 +18,5 @@ washington.csv
 
 ### Credits
 Template for project was forked from https://github.com/udacity/pdsnd_github
+
 Files used in the project were supplied by Udacity
