@@ -288,8 +288,8 @@ def main():
 
         mark_place = 0
         while True:
-            select_data = choice("\nPlease select the information you would like to see.\n\n [ts] Time Stats\n [ss] Station Stats\n [tds] Trip Duration Stats\n "
-                                 "[us] User Stats\n [rd] Display Raw Data\n [r] Restart\n\n>", ('ts', 'ss', 'tds', 'us', 'rd', 'r'))
+            select_data = choice("\nPlease select the stats you would like to see.\n\n [ts] Time\n [ss] Station\n [tds] Trip Duration\n "
+                                 "[us] User\n [rd] Display Raw Data\n [r] Restart\n\n>", ('ts', 'ss', 'tds', 'us', 'rd', 'r'))
             click.clear()
             if select_data == 'ts':
                 time_stats(df)
