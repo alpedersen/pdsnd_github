@@ -1,6 +1,9 @@
 ### Project Title
 Bikeshare Analysis Program
 
+### Author
+Amanda Pedersen
+
 ### Date created
 Project code was created on April 11, 2020
 
